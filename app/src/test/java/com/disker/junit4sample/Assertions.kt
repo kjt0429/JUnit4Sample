@@ -22,9 +22,9 @@ import org.junit.Assert.assertSame
 import org.junit.Test
 
 /**
- * JUnit4 에서 제공하는 Assertions 메서드
- * JUnit4.11 이상 부터, Hamcrest 패키지 포함
+ * JUnit4 에서 제공 하는 Assertions 메서드 테스트 샘플 코드
  *
+ * JUnit4.11 이상 부터, Hamcrest 패키지 를 포함하여 함께 제공
  * org.junit 에서 제공하는 메서드의 경우 (선택적 실패 메시지, 예상 값, 실제 값)을 파라미터로 받지만,
  * org.hamcrest 에서 제공하는 메서드의 경우 (선택적 실패 메시지, 실제 값, 예상값)으로 파라미터가 반대임 주의!
  */
